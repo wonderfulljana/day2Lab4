@@ -1,2 +1,3 @@
-Hi im jana im not stuck anymore! yay 
+
+Hi im jana im not stuck anymore! yay , and i resolved the conflict here 
  this is soo fun and intreasting to learn 
