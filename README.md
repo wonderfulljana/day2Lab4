@@ -1,2 +1,2 @@
-Hi my name is Jana im learning Git and im lowkey stuck lol 
+Hi im jana im not stuck anymore! yay 
  this is soo fun and intreasting to learn 
