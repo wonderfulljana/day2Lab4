@@ -1,2 +1,2 @@
-Hi my name is Jana im learning Git and im lowkey stuck lol 
+Hello from feature-greeting Branch! 
  this is soo fun and intreasting to learn 
